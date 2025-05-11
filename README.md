@@ -15,6 +15,16 @@
 ### :man_technologist: About Me :
 I am Adrien Manente,  a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 
+I recently completed my Application Developer training (Bachelor's level) at Wild Code School in Toulouse.  
+I am currently looking for a 6-month end-of-studies internship to apply my skills and contribute to real web development projects.
+
+During my training, I gained strong skills in JavaScript, TypeScript, React, Node.js, MySQL and also explored modern tools like Docker, GraphQL, Nginx, PostgreSQL, TailwindCSS and CI/CD automation.
+
+I worked on projects such as a medical appointment management app (Docker & GraphQL) and an interactive website about Ancient Greece (SQLite & TypeScript).
+
+I am motivated to join a team where I can continue learning, collaborate, and contribute to innovative projects.  
+Feel free to contact me to discuss how I can help your team!
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
